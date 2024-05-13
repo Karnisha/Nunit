@@ -1,0 +1,12 @@
+2024-05-13 09:51:43.960 +05:30 [INF] Now listening on: http://localhost:5199
+2024-05-13 09:51:44.006 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-13 09:51:44.008 +05:30 [INF] Hosting environment: Development
+2024-05-13 09:51:44.009 +05:30 [INF] Content root path: D:\LXP_Project\nunitbalance\LXP\LXP.Api
+2024-05-13 09:51:56.243 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/index.html - null null
+2024-05-13 09:51:57.339 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/index.html - 200 null text/html;charset=utf-8 1106.1468ms
+2024-05-13 09:51:57.614 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-13 09:51:57.644 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/_vs/browserLink - null null
+2024-05-13 09:51:57.689 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 76.201ms
+2024-05-13 09:51:58.034 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/_vs/browserLink - 200 null text/javascript; charset=UTF-8 389.976ms
+2024-05-13 09:51:58.091 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - null null
+2024-05-13 09:51:58.345 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5199/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 253.5053ms
